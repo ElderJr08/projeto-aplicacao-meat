@@ -36,3 +36,6 @@ Thumbs.db
 
 #package-lock.json
 package-lock.json
+
+#meat-app-template
+/meat-app-template
